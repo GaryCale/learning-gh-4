@@ -1,0 +1,3 @@
+This is part of me learning GitHub with the command line.
+
+This file is part of a folder that I will turn into a GitHub repo.
